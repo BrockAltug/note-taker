@@ -1,6 +1,17 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "869b4bca-2cda-4b88-ba66-f60908c830be",
+    "title": "Things to do",
+    "text": "1, 2, 3: GET THIS DONE!"
+  },
+  {
+    "id": "470e7e0c-a0e5-4276-a62a-8bb551d173a1",
+    "title": "Daily Tasks",
+    "text": "THESE ARE THE TASKS\n1\n2\n3\n4"
+  },
+  {
+    "id": "e5e54cf1-0adc-4468-8397-f785c493b14a",
+    "title": "Homework",
+    "text": "homework assignment due 11/10/2099"
+  }
 ]
