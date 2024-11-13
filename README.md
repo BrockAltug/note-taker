@@ -4,6 +4,8 @@ The Note-Taker Application is a lightweight and efficient tool for creating, vie
 
 <img src="./public/assets/images/demo.png" alt="Demo">
 
+[Demo](https://note-taker-2l31.onrender.com)
+
 ## Table of Contents
 
 - [Overview](#overview)
